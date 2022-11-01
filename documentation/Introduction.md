@@ -4,6 +4,10 @@ A Thing Pack supports a set of file types for defining different things.
 
 ## Current Supported Formats
 
+### Directory structure
+
+* [Directory structure](./formats/DirectoryStructure.md)
+
 ### Formats with their own JSON files
 
 * [Items](./formats/Items.md)
